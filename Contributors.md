@@ -6,7 +6,9 @@
 -[Joseph Tiglao](https://github.com/JosephTiglao) **Getting Started!!!** Cram hard
 ashutosh Sharma
 Rakesh Radhakrishnan dev was here.
+-  [Mathhtew]
 - [Si Thu Ko](https://github.com/ST-KO) **Lets go**
+- [Shivam Kamat](git@github.com:Light-Yagami-7/) **hmmm...**
 - [Fionah Santua](https://github.com/itsmefionah) **hello**
 -[Vandana Choudhari](https://github.com/VandanaChoudhari) **Start Contribution!**
 - [Godfrey Javier](https://github.com/GodfreyPotato) **hellowiee**
@@ -640,6 +642,7 @@ Yulia Lantzberg
 - Roman Watson
 - Ernesto Saer
 - Joshua Kuschner
+  sarak
 - Darshan
 - Shambhabya Medhi
 - Patricio Améstica
@@ -4181,6 +4184,7 @@ Romeu Leite
 - [Phorian] (https://github.com/phorian)
 - [Omari Fahd] (https://github.com/sarsa2012)
 - [Robert Judal Regalado](https://github.com/rojre1979)
+- [Pratik Thorat](https://github.com/PratikThoratNortheastern)
 - [Fuahad] (https://github.com/fuahad)
 - [Shahmeer malik](https://github.com/shahmeermalik1)
 - [Jalithc](https://github.com/Jalithc)
