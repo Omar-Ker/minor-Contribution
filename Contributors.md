@@ -5,6 +5,7 @@
 -[BinaryBrain](https://github.com/BinaryBrain45)**This is my first contribution. Follow me, let's collaborate and make some awesone projects**
 -[Joseph Tiglao](https://github.com/JosephTiglao) **Getting Started!!!** Cram hard
 ashutosh Sharma
+- Omar Kerbout
 Rakesh Radhakrishnan dev was here.
 - [Si Thu Ko](https://github.com/ST-KO) **Lets go**
 - [Fionah Santua](https://github.com/itsmefionah) **hello**
